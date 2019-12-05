@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EggCapture:jar">
+    <output-path>$USER_HOME$/Documents/MinecraftServer/plugins</output-path>
+    <root id="archive" name="EggCapture.jar">
+      <element id="module-output" name="EggCapture" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/MinecraftServer/spigot-1.14.4.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/config.yml" />
+    </root>
+  </artifact>
+</component>
