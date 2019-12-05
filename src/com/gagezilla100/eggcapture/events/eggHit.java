@@ -26,7 +26,7 @@ public class eggHit implements Listener {
                 }
                 else {
                     ((Player) e.getEntity().getShooter()).sendMessage("§8[§5EggCapture§8] §cYou do not have permission to catch " + e.getHitEntity().getName());
-                    suckdong
+                    suckdonga
                 }
             }
         }
